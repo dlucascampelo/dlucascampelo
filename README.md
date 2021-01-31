@@ -6,7 +6,7 @@
 
 ## **Hey, whats up**
 
-My name is Lucas. I am a bachelor's degree in computer science, and also Full stack development technologies.
+My name is Lucas. I am a bachelor's degree in computer science, and also Full stack development student.
 
 ### 🚀 **Main technologies and languages**
 
