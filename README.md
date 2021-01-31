@@ -6,8 +6,7 @@
 
 
 ## **Hey, whats up**
-I'm Lucas! I study Computer Science. Front-end developer
-
+I'm Lucas. I am a computer science student and front-end developer
 
 ### 🚀 **Main technologies and languages**
 
