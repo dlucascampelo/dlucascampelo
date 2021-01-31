@@ -4,9 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/lucas-campelo-858562186/)
 [![Gmail Badge](https://img.shields.io/badge/-dvlucascampelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:dvlucascampelo@gmail.com)
 
+---
+
 ## **Hey, whats up**
 
-My name is Lucas. I am a bachelor's degree in computer science, and also Full stack development student.
+My name is Lucas. I'm a Computer Science student. Front-end dev.
+
+---
 
 ### 🚀 **Main technologies and languages**
 
@@ -22,9 +26,11 @@ My name is Lucas. I am a bachelor's degree in computer science, and also Full st
 
 <code><img height="17" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code> [React Native](https://reactnative.dev/)
 
+---
+
 ### 💬 **About me**
 
 - 🔭 open to new opportunities
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on front-end projects
-- ⚡ Fun facts: I love comics, movies and animes, my favorite movie is Interstellar (avengers endgame is amazing too) and my favorite anime is probably shingeki no kyojin and myfavorite game is CS:GO :v
+- 💬 Ask me about: tech, games, movies, comics and animes
