@@ -9,7 +9,6 @@
 ## **Hey, whats up**
 My name is Lucas. I'm a Computer Science student. Front-end dev.
 
----
 
 ### 🚀 **Main technologies and languages**
 
