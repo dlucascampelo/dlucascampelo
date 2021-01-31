@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/lucas-campelo-858562186/)
 [![Gmail Badge](https://img.shields.io/badge/-dvlucascampelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:dvlucascampelo@gmail.com)
 
----
 
 ## **Hey, whats up**
 My name is Lucas. I'm a Computer Science student. Front-end dev.
