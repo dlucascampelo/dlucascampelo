@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img  alt="weatherapp" title="weatherapp" src=https://avatars.githubusercontent.com/u/49032660?s=460&u=d55a8937f961895ea181e39ebccda86f0f4d9f06&v=4 width="250"/>
+    <img  alt="weatherapp" title="weatherapp" src=https://avatars.githubusercontent.com/u/49032660?s=460&u=d55a8937f961895ea181e39ebccda86f0f4d9f06&v=4 width="200"/>
   <p>Hello world 👋, I'm Lucas Campelo</p>        
 </h1>
 
