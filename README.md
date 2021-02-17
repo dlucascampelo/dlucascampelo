@@ -1,15 +1,14 @@
 <h1 align="center">
     <img  alt="weatherapp" title="weatherapp" src=https://avatars.githubusercontent.com/u/49032660?s=460&u=d55a8937f961895ea181e39ebccda86f0f4d9f06&v=4 width="200"/>
-  <p>Hello world 👋, I'm Lucas Campelo</p>        
-</h1>
+      
 
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/lucas-campelo-858562186/)
 [![Gmail Badge](https://img.shields.io/badge/-dvlucascampelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:dvlucascampelo@gmail.com)
+</h1>
 
-
-## **Hey, whats up**
-I'm Lucas. I am a computer science student and front-end developer
+## Hey, whats up
+**I'm Lucas. I am a computer science student and front-end developer**
 
 ### 🚀 **Main technologies and languages**
 
