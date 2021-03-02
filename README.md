@@ -7,20 +7,23 @@
 [![Gmail Badge](https://img.shields.io/badge/-dvlucascampelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:dvlucascampelo@gmail.com)
 </h1>
 
-## Hey, whats up
-**I'm Lucas. I am a computer science student and front-end developer**
+##  📝 **Hey, whats up**
+I'm Lucas. I am a computer science student and front-end developer
+
+<br>
 
 ### 🚀 **Main technologies and languages**
+<br>
 
-<img height="17" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">[ JavaScript](https://www.javascript.com/)
+[<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
 
-<img height="17" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">[ TypeScript](https://www.typescriptlang.org/)
+[<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
 
-<img height="17" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">[ Node.js](https://nodejs.org/en/)
+[<img height="22" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
 
-<img height="19" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">[ React](https://reactjs.org)
+[<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
 
-<img height="19" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"> [ Next.Js](https://nextjs.org/)
+[<img height="22" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">](https://nextjs.org/)
 
 
 
