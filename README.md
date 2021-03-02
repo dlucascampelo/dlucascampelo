@@ -10,7 +10,6 @@
 ##  📝 **Hey, whats up**
 I'm Lucas. I am a computer science student and front-end developer
 
-<br>
 
 ### 🚀 **Main technologies and languages**
 <br>
