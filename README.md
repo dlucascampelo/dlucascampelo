@@ -18,7 +18,7 @@ I'm Lucas. I am a computer science student and front-end developer
 [<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
 [<img height="22" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
 [<img height="23" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
-[<img height="23" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">](https://nextjs.org/)
+[<img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">](https://nextjs.org/)
 
 
 
