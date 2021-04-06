@@ -7,9 +7,9 @@
 
 </h1>
 
-## 📝 **Hey, whats up**
+## 📝 **Olá, como vai?**
 
-I'm Lucas. I am a computer science student and front-end developer
+Eu sou o Lucas, um joven Padawan nas artes do desenvolvimento web. Você pode entrar em contato comigo em um dos links acima =)
 
 ### 🚀 **Main technologies and languages**
 
