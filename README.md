@@ -11,7 +11,7 @@
 
 Eu sou o Lucas, um joven Padawan nas artes do desenvolvimento web. Você pode entrar em contato comigo em um dos links acima =)
 
-### 🚀 **Main technologies and languages**
+### 🚀 **Principais linguagens e tecnologias**
 
 <br>
 
