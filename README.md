@@ -24,9 +24,10 @@ Eu sou o Lucas, um joven Padawan nas artes do desenvolvimento web. Você pode en
 
 ---
 
-### 💬 **About me**
+### 💬 **Sobre**
 
-- 🔭 open to new opportunities
-- 🌱 I’m currently learning Next.js and React Native
-- 👯 I’m looking to collaborate on front-end projects
-- 💬 Ask me about: tech, games, movies, comics and animes
+- 🎓 No momento estou me graduando em ciências da computação
+- 🔭 Aberto a novas oportunidades 
+- 🌱 No momento estou estudanto Next e React Native
+- 💬 Me pergunte sobre: animes, filmes, séries, star wars e jogos.
+- 🤖 Uma curiosidade: O primeiro jogo que eu joguei foi o CS 1.6, e o meu preferido é o CSGO =)
