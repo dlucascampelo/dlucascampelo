@@ -8,7 +8,6 @@
 </h1>
 
 ## 📝 **Olá, como vai?**
-
 Eu sou o Lucas, um joven Padawan nas artes do desenvolvimento web. Você pode entrar em contato comigo em um dos links acima =)
 
 ### 🚀 **Principais linguagens e tecnologias**
