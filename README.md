@@ -18,8 +18,6 @@ Eu sou o Lucas, um joven Padawan nas artes do desenvolvimento web. Você pode en
 [<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
 [<img height="22" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
 [<img height="24" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
-[<img height="24" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactnative.dev/)
-[<img height="24" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">](https://nextjs.org/)
 
 ---
 
@@ -27,6 +25,6 @@ Eu sou o Lucas, um joven Padawan nas artes do desenvolvimento web. Você pode en
 
 - 🎓 No momento estou me graduando em ciências da computação
 - 🔭 Aberto a novas oportunidades 
-- 🌱 No momento estou estudanto Next e React Native
+- 🌱 No momento estou estudanto React Native
 - 💬 Me pergunte sobre: animes, filmes, séries, star wars e jogos.
 - 🤖 Uma curiosidade: O primeiro jogo que eu joguei foi o CS 1.6, e o meu preferido é o CSGO =)
