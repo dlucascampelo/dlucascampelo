@@ -1,3 +1,6 @@
+<h1 align="center">Hello, I'm Lucas =)
+</h1>
+
 <h1 align="center">
     <img  alt="titlephoto" title="titlephoto" src=https://www.linkites.com/wp-content/uploads/2019/04/React-graphic.png width="200"/>
 
@@ -7,24 +10,25 @@
 
 </h1>
 
-## 📝 **Olá, como vai?**
-Eu sou o Lucas, um joven Padawan nas artes do desenvolvimento web. Você pode entrar em contato comigo em um dos links acima =)
+**<h3 align="center">Desenvolvedor front-end / mobile no Banco do nordeste do Brasil</h3>**
+</br>
 
-### 🚀 **Principais linguagens e tecnologias**
-
-<br>
-
+**<h4>🚀 Principais linguagens e tecnologias </h4>**
+</br>
 [<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
 [<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
+[<img height="22" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">](https://reactnative.dev/)
+[<img height="22" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
 [<img height="22" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
-[<img height="24" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
+
 
 ---
 
-### 💬 **Sobre**
+**<h4>💬Sobre**</h4>
 
-- 🎓 No momento estou me graduando em ciências da computação
-- 🔭 Aberto a novas oportunidades 
-- 🌱 No momento estou estudanto React Native
-- 💬 Me pergunte sobre: animes, filmes, séries, star wars e jogos.
-- 🤖 Uma curiosidade: O primeiro jogo que eu joguei foi o CS 1.6, e o meu preferido é o CSGO =)
+- 🎓 Bacharelando em ciências da computação
+- 🔭 Atualmente trabalhando no BNB
+- 🌱 No momento estou aprendendo React Native
+- 💬 Me pergunte sobre: coisas de nerd e tech
+- 📫 Como entrar em contato comigo? dvlucascampelo@gmail.com
+
