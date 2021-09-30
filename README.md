@@ -1,20 +1,20 @@
-<h1 align="center">Hello, I'm Lucas =)
-</h1>
+   <img src=".github/react.svg" width="400px" align="right" alt="Computador">
+
+***<h2 align="left">Hello, I'm Lucas =)***
+
+---
+**<h3 align="left">Desenvolvedor front-end / mobile no Banco do nordeste do Brasil</h3>**
 
 
-<h1 align="center">
-   <img src="![image](https://user-images.githubusercontent.com/49032660/135536970-727c5d89-91dc-46e5-bdeb-03105705408e.png)" width="400px" align="right" alt="Computador">
    
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/lucas-campelo-858562186/)
 [![Gmail Badge](https://img.shields.io/badge/-dvlucascampelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:dvlucascampelo@gmail.com)
 
-</h1>
 
-**<h3 align="center">Desenvolvedor front-end / mobile no Banco do nordeste do Brasil</h3>**
 </br>
 
-**<h4>🚀 Principais linguagens e tecnologias </h4>**
+**<h3>🚀 Principais linguagens e tecnologias </h3>**
 </br>
 [<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
 [<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
