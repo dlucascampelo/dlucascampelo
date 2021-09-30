@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Lucas =)
 </h1>
+<img src="https://i.pinimg.com/originals/2d/18/82/2d188293181b8df387ea7ac938b4d9dd.png" width="400px" align="right" alt="Computador">
 
 <h1 align="center">
-    <img  alt="titlephoto" title="titlephoto" src="https://imgur.com/Xjt6ZmQ" width="200"/>
-
+   
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/lucas-campelo-858562186/)
 [![Gmail Badge](https://img.shields.io/badge/-dvlucascampelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:dvlucascampelo@gmail.com)
