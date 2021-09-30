@@ -4,7 +4,6 @@
 
 **<h3 align="left">Desenvolvedor front-end / mobile no Banco do nordeste do Brasil</h3>**
 
----
 
    
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
