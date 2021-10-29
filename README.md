@@ -13,7 +13,7 @@
 
 </br>
 
-**<h3>🚀 Principais linguagens e tecnologias </h3>**
+**<h3>🚀 Stacks </h3>**
 </br>
 [<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
 [<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
@@ -23,12 +23,4 @@
 
 
 ---
-
-**<h4>💬Sobre**</h4>
-
-- 🎓 Bacharelando em ciências da computação
-- 🔭 Atualmente trabalhando no BNB
-- 🌱 No momento estou aprendendo React Native
-- 💬 Me pergunte sobre: coisas de nerd e tech
-- 📫 Como entrar em contato comigo? dvlucascampelo@gmail.com
 
