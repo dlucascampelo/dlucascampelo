@@ -2,8 +2,6 @@
 
 ***<h2 align="left">Hello, I'm Lucas =)***
 
-
----
 **<h3>💬 Sobre**</h3>
 
 - 🎓 Bacharelando em ciências da computação
