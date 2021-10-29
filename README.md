@@ -25,7 +25,7 @@
 
 <br/>
 
-**<h3><img src=".github/developer.gif" width="35px"> Stacks**</h3>
+**<h3><img src=".github/Developer.gif" width="35px"> Stacks**</h3>
 
 [<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
 [<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
