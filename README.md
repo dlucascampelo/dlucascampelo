@@ -3,10 +3,9 @@
 ***<h2 align="left">Hello, I'm Lucas =)***
 
 **<h3>💬 Sobre**</h3>
-
+- 💻 Desenvolvedor front-end / Mobile
 - 🎓 Bacharelando em ciências da computação
 - 👨🏻‍💻Atualmente trabalhando no Banco do Nordeste do Brasil
-- 📚 Estudando front-end e mobile
 - 💬 Apenas mais um nerd =)
 </br>
 
