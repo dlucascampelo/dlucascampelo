@@ -1,4 +1,4 @@
-   <img src=".github/react.png" width="300px" align="right" alt="Computador">
+   <img src=".github/react.png" width="400px" align="right" alt="Computador">
 
 ***<h2 align="left">Hello, I'm Lucas =)***
 
