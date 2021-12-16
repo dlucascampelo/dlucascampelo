@@ -6,7 +6,7 @@
 - 💻 Desenvolvedor front-end / Mobile
 - 🎓 Bacharelando em ciências da computação
 - 👨🏻‍💻Atualmente trabalhando no Banco do Nordeste do Brasil
-- 💬 Apenas mais um nerd =)
+
 </br>
 
 **<h3>💻 Como me encontrar: </h3>**
