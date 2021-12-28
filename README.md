@@ -18,8 +18,6 @@
 
 ---
 
-<br/>
-
 **<h3 align="center"><img src=".github/de.gif" width="35px"> Stacks**
 
 [<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
@@ -27,8 +25,6 @@
 [<img height="22" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">](https://reactnative.dev/)
 [<img height="22" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
 </h3>
-
-<br/>
 
 ---
 
