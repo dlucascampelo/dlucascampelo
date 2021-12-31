@@ -28,7 +28,7 @@
 
 ---
 
-**<h3><img src=".github/octocat.gif" width="30px"> GitHub Stats**</h3>
+**<h3 align="center"><img src=".github/octocat.gif" width="30px"> GitHub Stats**</h3>
 
 
 <div align="center">
