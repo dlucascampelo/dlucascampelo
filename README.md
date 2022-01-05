@@ -7,8 +7,9 @@
 - 🎓 Bacharelando em ciências da computação
 - 👨🏻‍💻Atualmente trabalhando no Banco do Nordeste do Brasil
 
-   
-   **<h3>💬 About me**</h3>
+</br>
+
+ **<h3>💬 About me**</h3>
 - 💻 Front-end / Mobile Developer
 - 🎓 Computer science student 
 - 👨🏻‍💻 Currently working at Banco Do Nordeste do Brasil
