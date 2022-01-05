@@ -17,7 +17,7 @@
 </br>
 
 
-**<h3>💻 Como me encontrar: </h3>**
+**<h3>💻 Como me encontrar / How to contact me: </h3>**
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
