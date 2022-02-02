@@ -28,10 +28,18 @@
 
 **<h3 align="center"><img src=".github/de.gif" width="35px"> Stacks**
 
-[<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
-[<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
-[<img height="22" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">](https://reactnative.dev/)
-[<img height="22" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
+ <div style="display: inline_block">  <br>
+ 
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">](https://www.javascript.com/)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">](https://www.typescriptlang.org/)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">](https://reactjs.org)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">](https://reactnative.dev/)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">](https://nodejs.org/)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/yarn.svg">](https://yarnpkg.com/)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">](https://www.styled-components.com/)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">](https://git-scm.com/)
+
+</div>
 </h3>
 
 ---
