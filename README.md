@@ -1,4 +1,4 @@
-   <img src=".github/react.svg" width="300px" align="right" alt="Computador">
+   <img src=".github/computer.png"  align="right" alt="Computador">
 
 ***<h2 align="left">Hello, I'm Lucas =)***
 
@@ -6,10 +6,18 @@
 - 💻 Desenvolvedor front-end / Mobile
 - 🎓 Bacharelando em ciências da computação
 - 👨🏻‍💻Atualmente trabalhando no Banco do Nordeste do Brasil
-- 💬 Apenas mais um nerd =)
+
 </br>
 
-**<h3>💻 Como me encontrar: </h3>**
+ **<h3>💬 About me**</h3>
+- 💻 Front-end / Mobile Developer
+- 🎓 Computer science student 
+- 👨🏻‍💻 Currently working at Banco Do Nordeste do Brasil
+   
+</br>
+
+
+**<h3>💻 Como me encontrar / How to contact me: </h3>**
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
@@ -18,21 +26,17 @@
 
 ---
 
-<br/>
-
-**<h3><img src=".github/Developer.gif" width="35px"> Stacks**</h3>
+**<h3 align="center"><img src=".github/de.gif" width="35px"> Stacks**
 
 [<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://www.javascript.com/)
 [<img height="22" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://www.typescriptlang.org/)
 [<img height="22" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">](https://reactnative.dev/)
 [<img height="22" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://reactjs.org)
-[<img height="22" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
-
-<br/>
+</h3>
 
 ---
 
-**<h3><img src=".github/octocat.gif" width="30px"> GitHub Stats**</h3>
+**<h3 align="center"><img src=".github/octocat.gif" width="30px"> GitHub Stats**</h3>
 
 
 <div align="center">
