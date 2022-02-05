@@ -3,14 +3,14 @@
 ***<h2 align="left">Hello, I'm Lucas =)***
 
 **<h3>💬 Sobre**</h3>
-- 💻 Desenvolvedor front-end / Mobile
+- 💻 Desenvolvedor front-end
 - 🎓 Bacharelando em ciências da computação
 - 👨🏻‍💻Atualmente trabalhando no Banco do Nordeste do Brasil
 
 </br>
 
  **<h3>💬 About me**</h3>
-- 💻 Front-end / Mobile Developer
+- 💻 Front-end developer
 - 🎓 Computer science student 
 - 👨🏻‍💻 Currently working at Banco Do Nordeste do Brasil
    
