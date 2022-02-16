@@ -38,6 +38,8 @@
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/yarn.svg">](https://yarnpkg.com/)
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">](https://www.styled-components.com/)
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">](https://git-scm.com/)
+[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">](https://www.figma.com/)
+    
 
 </div>
 </h3>
