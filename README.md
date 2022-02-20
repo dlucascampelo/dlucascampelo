@@ -7,13 +7,17 @@
 - 🎓 Bacharelando em ciências da computação
 - 👨🏻‍💻Atualmente trabalhando no Banco do Nordeste do Brasil
 
+- <img src=".github/cvkeep.png" width="18" height="18" alt="CVKeep">
+    <a href="https://www.cvkeep.com/cv/dlucascampelo"> More about me.</a>
 </br>
 
  **<h3>💬 About me**</h3>
 - 💻 Front-end developer
 - 🎓 Computer science student 
 - 👨🏻‍💻 Currently working at Banco Do Nordeste do Brasil
-   
+
+- <img src=".github/cvkeep.png" width="18" height="18" alt="CVKeep">
+    <a href="https://www.cvkeep.com/cv/dlucascampelo"> Mais informações sobre mim.</a>
 </br>
 
 
