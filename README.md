@@ -21,9 +21,9 @@
 
 ---
 
-**<h3 align="center"><img src=".github/de.gif" width="35px"> Stacks**
+**<h3 align="center"><img src=".github/de.gif" width="35px"> Stacks**</h3>
 
- <div style="display: inline_block"> 
+ <div align="center" style="display: inline_block"> 
 
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">](https://www.javascript.com/)
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">](https://www.typescriptlang.org/)
