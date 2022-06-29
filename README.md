@@ -6,7 +6,7 @@
  **<h3>💬 About me**</h3>
 - 💻 Front-end developer
 - 🎓 Computer science student 
-- 👨🏻‍💻 Currently working at Banco Do Nordeste do Brasil
+- 👨🏻‍💻 Currently working at Ubistart
 
 - <img src=".github/cvkeep.png" width="18" height="18" alt="CVKeep">
     <a href="https://www.cvkeep.com/cv/dlucascampelo"> More about me.</a>
