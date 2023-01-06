@@ -5,7 +5,6 @@
 
  **<h3>💬 About me**</h3>
 - 💻 Front-end developer
-- 🎓 Computer science student 
 - 👨🏻‍💻 Currently working at Ubistart
 
 - <img src=".github/cvkeep.png" width="18" height="18" alt="CVKeep">
