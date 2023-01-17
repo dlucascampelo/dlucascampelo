@@ -6,13 +6,11 @@
  **<h3>💬 About me**</h3>
 - 💻 Front-end developer
 - 👨🏻‍💻 Currently working at Ubistart
-
-- <img src=".github/cvkeep.png" width="18" height="18" alt="CVKeep">
-    <a href="https://www.cvkeep.com/cv/dlucascampelo"> More about me.</a>
-</br>
+- 🌱 I’m currently learning: Node
 
 
-**<h3>💻 How to contact me: </h3>**
+
+**<h3>📫 How to reach me: </h3>**
 
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/lucas-campelo-858562186/)
