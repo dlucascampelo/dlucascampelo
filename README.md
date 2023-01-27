@@ -26,7 +26,6 @@
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">](https://www.typescriptlang.org/)
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">](https://reactjs.org)
 [<img height="43" width="50" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">](https://reactnative.dev/)
-[<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">](https://git-scm.com/)
 [<img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">](https://nodejs.org/)
    
 
