@@ -5,8 +5,8 @@
 
  **<h3>💬 About me**</h3>
 - 💻 Front-end developer
-- 👨🏻‍💻 Open to work =)
-- 🌱 I’m currently learning: Node
+- 👨🏻‍💻 CodeMiner42
+- 🌱 I’m currently learning: Ruby
 
 
 
