@@ -8,14 +8,14 @@
 
 - 💻 My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications.
 
-- 👨🏻‍💻 I currently work as software developer at <b> [@CodeMiner42](https://www.codeminer42.com/) </b>
+- 👨🏻‍💻 I'm currently looking for a opportunity =)
 
-- 🌱 I’m currently learning: Ruby
+- 🌱 I’m currently learning: Back-end developer
 
 **<h2>📫 Socials: </h2>**
 
 [![Twitter Badge](https://img.shields.io/badge/-@dlucascampelo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dlucascampelo)](https://twitter.com/dlucascampelo)
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/lucas-campelo-858562186/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Campelo-6633cc?style=flat-square&logo=Linkedin&logoColor=&link=https://https://www.linkedin.com/in/lucas-campelo-858562186/)](https://www.linkedin.com/in/dlucascampelo)
 [![Gmail Badge](https://img.shields.io/badge/-dvlucascampelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:dvlucascampelo@gmail.com)
 
 **<h2 ><img src=".github/de.gif" width="35px"> Stack**</h2>
