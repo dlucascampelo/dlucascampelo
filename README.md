@@ -8,7 +8,7 @@
 
 - 💻 My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications.
 
-- 👨🏻‍💻 I'm currently looking for a opportunity =)
+- 👨🏻‍💻 I'm currently working as Front-end developer in @WinsVue
 
 - 🌱 I’m currently learning: Back-end developer
 
