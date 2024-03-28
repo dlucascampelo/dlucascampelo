@@ -10,7 +10,7 @@
 
 - 👨🏻‍💻 I'm currently working as Software developer in @WinsVue
 
-- 🌱 I’m currently learning: Back-end developer
+- 🌱 I’m currently learning: Back-end development
 
 **<h2>📫 Socials: </h2>**
 
