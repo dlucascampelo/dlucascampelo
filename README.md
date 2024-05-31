@@ -2,7 +2,7 @@
 
 **_<h2 align="left">Hello, I'm Lucas =)_**
 
-<h3>Computer Scientist and passionate about technology with experience in Front-end and Mobile development. </h3>
+<h3>Computer Scientist and passionate about technology with experience in Front-end and Mobile development.</h3>
 
 **<h2>💬 About me**</h2>
 
