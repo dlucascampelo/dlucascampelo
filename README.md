@@ -8,7 +8,7 @@
 
 - 💻 My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications.
 
-- 👨🏻‍💻 I'm currently working as Software developer in @WinsVue
+- 👨🏻‍💻 I'm currently working as Software engineer in @PE-Motos
 
 
 
